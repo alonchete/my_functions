@@ -19,3 +19,4 @@ var number = [1,2,3,4,5]
 
 
 console.log(map(number, suma));
+console.log(map(["CARLOS", "MARCO"], mayus));
