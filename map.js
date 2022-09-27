@@ -1,1 +1,2 @@
-var p
+var p;
+var s;
